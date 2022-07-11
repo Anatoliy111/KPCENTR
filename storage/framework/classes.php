@@ -71,4 +71,8 @@
   'backend\\Controllers\\usergroups' => 'modules\\backend\\controllers\\usergroups.php',
   'system\\Controllers\\mailtemplates' => 'modules\\system\\controllers\\mailtemplates.php',
   'RainLab\\User\\Models\\Throttle' => 'plugins\\rainlab\\user\\models\\Throttle.php',
+  'RainLab\\Pages\\Components\\ChildPages' => 'plugins\\rainlab\\pages\\components\\ChildPages.php',
+  'RainLab\\Pages\\Components\\StaticPage' => 'plugins\\rainlab\\pages\\components\\StaticPage.php',
+  'RainLab\\Pages\\Components\\StaticMenu' => 'plugins\\rainlab\\pages\\components\\StaticMenu.php',
+  'RainLab\\Pages\\Components\\StaticBreadcrumbs' => 'plugins\\rainlab\\pages\\components\\StaticBreadcrumbs.php',
 );
