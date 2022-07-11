@@ -6,3 +6,5 @@ storage/framework/cache/*
 storage/cms/combiner/assets/*
 storage/framework/sessions/*
 
+storage/cms/twig/*
+storage/cms/cache/*
