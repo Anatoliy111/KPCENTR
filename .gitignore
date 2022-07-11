@@ -1,6 +1,5 @@
 .DS_Store
 .idea
-.log
 
 storage/framework/cache/*
 storage/cms/combiner/assets/*
@@ -8,3 +7,5 @@ storage/framework/sessions/*
 
 storage/cms/twig/*
 storage/cms/cache/*
+#*.log
+storage/logs/system.log
