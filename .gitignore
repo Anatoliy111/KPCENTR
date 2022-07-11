@@ -1,5 +1,6 @@
 .DS_Store
 .idea
 storage/*
+storage/cms
 *.log
 config/database.php
