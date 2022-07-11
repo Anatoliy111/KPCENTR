@@ -2,6 +2,6 @@
 .idea
 .log
 
-storage/framework/cache/*
+storage\framework\cache\*
 storage/cms/combiner/assets/*
-storage/framework/sessions/*
+storage\framework\sessions\*
