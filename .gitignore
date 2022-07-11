@@ -2,10 +2,7 @@
 .idea
 .log
 
-storage\framework\cache\*
+storage/framework/cache/*
 storage/cms/combiner/assets/*
-storage\framework\sessions\*
-/storage/framework/sessions/l4WflxbWQg8IaMLTCl8I31V3gGmYbF1SVJdTcq1Q
+storage/framework/sessions/*
 
-storage/framework/sessions/l4WflxbWQg8IaMLTCl8I31V3gGmYbF1SVJdTcq1Q
-storage/framework/sessions/l4WflxbWQg8IaMLTCl8I31V3gGmYbF1SVJdTcq1Q
