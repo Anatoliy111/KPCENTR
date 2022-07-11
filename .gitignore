@@ -12,3 +12,5 @@ storage/app/uploads/*
 storage/temp/*
 *.log
 storage/logs/system.log
+config/database.php
+storage/framework/*
