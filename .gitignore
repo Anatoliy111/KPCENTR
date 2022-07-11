@@ -1,5 +1,5 @@
 .DS_Store
 .idea
-storage/*
+/storage/*
 *.log
-config/database.php
+/config/database.php
