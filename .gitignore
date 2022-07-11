@@ -3,6 +3,8 @@
 storage/*
 *.log
 config/database.php
+!storage/cms
+!storage/framework
 
 
 
