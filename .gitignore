@@ -8,6 +8,7 @@ storage/framework/sessions/*
 storage/cms/twig/*
 storage/cms/cache/*
 storage/app/media/*
-storage/app/upload/*
+storage/app/uploads/*
+storage/temp/*
 *.log
 storage/logs/system.log
