@@ -7,5 +7,7 @@ storage/framework/sessions/*
 
 storage/cms/twig/*
 storage/cms/cache/*
-#*.log
+storage/app/media/*
+storage/app/upload/*
+*.log
 storage/logs/system.log
