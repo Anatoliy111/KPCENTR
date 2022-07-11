@@ -1,22 +1,22 @@
-.idea/
-storage/
-# /themes/
-
-node_modules/
-npm-debug.log
-yarn-error.log
-
-# Laravel 4 specific
-bootstrap/compiled.php
-storage\
-
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
-/.vagrant
+/bootstrap/compiled.php
+/vendor
+composer.phar
 .DS_Store
-*.log
+.idea
+.env
+.env.*.php
+.env.php
+php_errors.log
+nginx-error.log
+nginx-access.log
+nginx-ssl.access.log
+nginx-ssl.error.log
+php-errors.log
+sftp-config.json
+.ftpconfig
+selenium.php
+composer.lock
+_ide_helper.php
+
+# for netbeans
+nbproject
