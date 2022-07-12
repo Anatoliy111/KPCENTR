@@ -20,11 +20,12 @@ postPage = "home"
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
                         {% for image in post.featured_images|slice(0, 1) %}
-                        <img class="blog__photo" src="{{ image.path }}" alt="{{ post.title }}">
+<!--                        <img class="blog__photo" src="{{ image.path }}" alt="{{ post.title }}">-->
+                        <img class="img-fluid w-100" src="{{ image.path }}" alt="{{ post.title }}">
                         {% endfor %}
-                        <img class="img-fluid" src="{{ image.path }}" alt="">
+
 <!--                        <img class="img-fluid" src="{{ 'assets/images/blog-1.jpg'|theme }}" alt="">-->
-                        <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">{{ post.url }}</a>
+                        <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="{{ post.url }}">Новини</a>
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
