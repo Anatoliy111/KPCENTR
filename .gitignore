@@ -3,3 +3,5 @@
 /storage/*
 *.log
 /config/database.php
+code-generator
+
