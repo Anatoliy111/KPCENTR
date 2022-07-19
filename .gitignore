@@ -1,7 +1,0 @@
-.DS_Store
-.idea
-/storage/*
-*.log
-/config/database.php
-code-generator
-
